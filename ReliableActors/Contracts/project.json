@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "description": "Contracts Class Library",
+  "authors": [ "JaimieAP" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+    "frameworks": {
+        "net451": { }
+    },
+    "dependencies": {
+        "Newtonsoft.Json": "8.0.2"
+    }
+}
